@@ -1,5 +1,5 @@
 # Single-Nucleotide-Polymorphism-Analysis
-Introduction
+## Introduction
 
 In this study Plasmodium falciparum parasites were cultured in normal growth media or media containing antimalarial drugs to induce drug resistance. Whole genome sequencing was conducted on each line of parasites to find single nucleotide polymorphisms in genes that may assist the parasite's ability to resist the effects of the antimalarial drug Tafenoquine.
 
@@ -12,7 +12,7 @@ In this study, open source gene annotation and impact prediction software was ut
 This method allows the quantification of predictive Low, Moderate and High Impact modifications induced by Tafenoqiune in each gene to compare significant changes between the control lines and the drug resistant lines of parasites.
 
 
-Methods
+##Methods
 
 Whole Genome Sequencing
 
@@ -45,7 +45,7 @@ LOW	Assumed to be mostly harmless or unlikely to change protein behavior.	synony
 MODIFIER	Usually non-coding variants or variants affecting non-coding genes, where predictions are difficult or there is no evidence of impact.	exon_variant, downstream_gene_variant
 
 
-Results and Discussion
+##Results and Discussion
 In this study, the most interesting effects are the High impact effects which would cause a change in function of the gene product.
 
 Using the method decribed above, a list of 49 genes were generated which had significant changes in high impact mutations compared to the control line of parasite for further investigation. 
@@ -56,7 +56,7 @@ A search of these genes a Plasmodium Informatic Resource database (plasmodb.org)
 
 ![goCloud (1)](https://github.com/user-attachments/assets/57bb459b-d8ab-47f1-95dc-000f0bdb7ca0)
 
-Conclusions
+##Conclusions
 
 In this study, the impact of Tafenoqiune on cultures of Plasmodium falciparum were determined using gene annotation and prediction software. Genes with significant changes in high impact mutations compared to the control line of parasites were filtered for further investigation.
 
